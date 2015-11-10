@@ -27,14 +27,17 @@ API GitHub
 	Reponse Serveur :  Réponse en JSON
 		
 
-# Application Client
+# Application Client : METEO
 
 Application Météo : Fonctionnalités (Via API :http://api.tameteo.com/)
 	
-		Déterminer la météo automatiquement au démarrage de l'application grâce aux données GPS (Si activé)
-		Déterminer la météo pour un code postal précis rentrée par l'utilisateur
-		Explorer les différentes météo dans le monde via une carte
-		Voir la météo sur plusieurs jour en indiquant un indice de confiance
+		Déterminer la météo automatiquement au démarrage de l'application grâce aux données GPS (Si activé, Mobile & WEB)
+		Déterminer la météo pour un code postal précis rentrée par l'utilisateur (Mobile & WEB)
+		Explorer les différentes météo dans le monde via une carte (Mobile & WEB)
+		Voir la météo sur plusieurs jour en indiquant un indice de confiance (Mobile & WEB)
+		Avoir un support multilingues (Mobile & WEB)
+		Base de données MySQL (WEB)
+		Base de données SQLite (Mobile)
 		
 		
 	
