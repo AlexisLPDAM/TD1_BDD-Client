@@ -19,12 +19,22 @@ Etude API Méteo :
 
 API GitHub
 
-		Requêtes GET : https://api.github.com/users/octocat/orgs
-		Reponse Serveur : []
-		Requêtes GET : https://api.github.com/repos/vmg/redcarpet/issues?state=closed
-		Reponse Serveur :  Info sur le projet en JSON
-		Requêtes GET : https://api.github.com/organizations?since=135
-		Reponse Serveur :  Réponse en JSON
+	Requêtes GET : https://api.github.com/users/octocat/orgs
+	Reponse Serveur : []
+	Requêtes GET : https://api.github.com/repos/vmg/redcarpet/issues?state=closed
+	Reponse Serveur :  Info sur le projet en JSON
+	Requêtes GET : https://api.github.com/organizations?since=135
+	Reponse Serveur :  Réponse en JSON
+		
+
+# Application Client
+
+Application Météo : Fonctionnalités (Via API :http://api.tameteo.com/)
+	
+		Déterminer la météo automatiquement au démarrage de l'application grâce aux données GPS (Si activé)
+		Déterminer la météo pour un code postal précis rentrée par l'utilisateur
+		Explorer les différentes météo dans le monde via une carte
+		Voir la météo sur plusieurs jour en indiquant un indice de confiance
 		
 		
 	
