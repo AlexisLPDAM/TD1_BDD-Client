@@ -29,15 +29,15 @@ API GitHub
 
 # Application Client : METEO
 
-Application Météo : Fonctionnalités (Via API :http://api.tameteo.com/)
+Application Météo : Fonctionnalités (Via API :http://www.infoclimat.fr/ ou l'API de yahoo : https://developer.yahoo.com/weather/)
 	
-		Déterminer la météo automatiquement au démarrage de l'application grâce aux données GPS (Si activé, Mobile & WEB)
+		Déterminer la météo automatiquement au démarrage de l'application grâce aux données GPS (Mobile si la géolocalisation est activé, WEB)
 		Déterminer la météo pour un code postal précis rentrée par l'utilisateur (Mobile & WEB)
-		Explorer les différentes météo dans le monde via une carte (Mobile & WEB)
-		Voir la météo sur plusieurs jour en indiquant un indice de confiance (Mobile & WEB)
+		Consulter la pression atmosphérique(Mobile & WEB)
+		Consulter le taux de précipitation (Mobile & Web)
 		Avoir un support multilingues (Mobile & WEB)
-		Base de données MySQL (WEB)
-		Base de données SQLite (Mobile)
+		Archivage des données sur un serveur (WEB)
+		Archivage des données localement (Mobile)
 		
 		
 	
